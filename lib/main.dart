@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Notas App',
       theme: appTheme,
-      home: const HomeScreen(), // pantalla principal
+      home: HomeScreen(), // pantalla principal
     );
   }
 }
